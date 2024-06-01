@@ -15,3 +15,6 @@ Python programmer and aspiring data analyst. I'm deeply passionate about data an
 - Databases: PostgreSQL;
 - Visualization: Power BI, Tableau, Dash;
 - Spreadsheets: MS Excel.
+
+**Let's Connect:**
+[LinkedIn](https://www.linkedin.com/in/andrey-shadrin-2402-da/)
