@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Shadrin Andrey.
 
-I am Shadrin Andrey 
-- Python programmer and aspiring data analyst.
-I'm deeply passionate about data and have a strong affinity for Python. I enjoy looking for patterns, building and testing hypotheses.
+Python programmer and aspiring data analyst. I'm deeply passionate about data and have a strong affinity for Python. I enjoy looking for patterns, building and testing hypotheses.
 
 - Proficient in Python and data analysis tools such as Pandas, NumPy, Matplotlib, Seaborn, and Dash;
 - Advanced knowledge of SQL (PostgreSQL): writing complex queries and manipulating data;
@@ -12,8 +10,8 @@ I'm deeply passionate about data and have a strong affinity for Python. I enjoy 
 - Basic knowledge of CI/CD tools (Docker and GitHub Actions);
 - Experienced in team development and proficient with version control systems such as GitHub.
 
-Skills:
-Languages: SQL, Python;
-Databases: PostgreSQL;
-Visualization: Power BI, Tableau, Dash;
-Spreadsheets: MS Excel.
+**Skills:**
+- Languages: SQL, Python;
+- Databases: PostgreSQL;
+- Visualization: Power BI, Tableau, Dash;
+- Spreadsheets: MS Excel.
