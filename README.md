@@ -16,7 +16,7 @@ Python programmer and aspiring data analyst. I'm deeply passionate about data an
 - Visualization: Power BI, Tableau, Dash;
 - Spreadsheets: MS Excel.
 
-**My projects:**
+**Projects:**
 - [Data Analysis projects](https://github.com/shdrn2402/data_analysis)
 
 **Let's Connect:**
