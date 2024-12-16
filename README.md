@@ -18,6 +18,7 @@ Python programmer and aspiring data analyst. I'm deeply passionate about data an
 
 **Projects:**
 - [Data Analysis projects](https://github.com/shdrn2402/data_analysis)
+- [SQL projects](https://github.com/shdrn2402/Eight-week-SQL-challenge)
 
 **Let's Connect:**
 [LinkedIn](https://www.linkedin.com/in/andrey-shadrin-2402-da/)
