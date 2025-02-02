@@ -17,7 +17,10 @@ Python programmer and aspiring data analyst. I'm deeply passionate about data an
 - Spreadsheets: MS Excel.
 
 **Projects:**
-- [Data Analysis projects](https://github.com/shdrn2402/data_analysis)
+| Project link | Description |
+|-------------|--------------|
+| [Data Analysis projects](https://github.com/shdrn2402/data_analysis) | This project contains educational case studies in data analysis using Python, SQL, and visualization tools. It covers data processing, writing complex queries, and creating insightful visualizations. |
+
 
 **Let's Connect:**
 [LinkedIn](https://www.linkedin.com/in/andrey-shadrin-2402-da/)
