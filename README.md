@@ -14,13 +14,15 @@ Python programmer and aspiring data analyst. I'm deeply passionate about data an
 - Languages: SQL, Python;
 - Databases: PostgreSQL;
 - Visualization: Power BI, Tableau, Dash;
-- Spreadsheets: MS Excel.
+- Spreadsheets: MS Excel;
+- Experience in asynchronous Python, API-based systems, and architectural prototyping.
+
 
 **Projects:**
 | Project link | Description |
 |-------------|--------------|
 | [Data Analysis projects](https://github.com/shdrn2402/data_analysis) | This project contains educational case studies in data analysis using Python, SQL, and visualization tools. It covers data processing, writing complex queries, and creating insightful visualizations. |
-
+| [Solana Arbitrage Research](https://github.com/shdrn2402/solana-arbitrage-research) | This project explores the architecture and practical limitations of off-chain arbitrage on Solana, focusing on bot design, diagnostics, and interaction with public aggregator APIs. |
 
 **Let's Connect:**
 [LinkedIn](https://www.linkedin.com/in/andrey-shadrin-2402-da/)
