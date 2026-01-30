@@ -22,7 +22,7 @@ Python programmer and aspiring data analyst. I'm deeply passionate about data an
 | Project link | Description |
 |-------------|--------------|
 | [Data Analysis projects](https://github.com/shdrn2402/data_analysis) | This project contains educational case studies in data analysis using Python, SQL, and visualization tools. It covers data processing, writing complex queries, and creating insightful visualizations. |
-| [Solana Arbitrage Research](https://github.com/shdrn2402/solana-arbitrage-research) | This project explores the architecture and practical limitations of off-chain arbitrage on Solana, focusing on bot design, diagnostics, and interaction with public aggregator APIs. |
+| [Solana Arbitrage Research](https://github.com/shdrn2402/solana-arbitrage) | This project explores the architecture and practical limitations of off-chain arbitrage on Solana, focusing on bot design and diagnostics. |
 
 **Let's Connect:**
 [LinkedIn](https://www.linkedin.com/in/andrey-shadrin-2402-da/)
