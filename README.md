@@ -12,7 +12,7 @@ Data & Software Engineer focused on building robust data pipelines, scalable bac
 * **[passbot](https://github.com/shdrn2402/passbot)**  
   Zero-knowledge Telegram bot designed for deterministic, on-the-fly password suffix generation. Implements client-side hash derivation without persisting secrets or passwords in any storage layer.
 
-* **[my_family_budget](https://github.com/shdrn2402/my_family_budget)**  
+* **[family-budget-bot](https://github.com/shdrn2402/family-budget-bot))**  
   Automated personal and family financial tracking solution designed for structured expense classification, budget reconciliation, and data persistence.
 
 ---
